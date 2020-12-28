@@ -9,4 +9,4 @@ This software use:
 To use this software you need a telemetry file made by [RST_UDP](https://github.com/CodeSailer/RST_UDP) program.
 The above program will create a .txt file that can be open by this telemetry software.
 
-![](https://octodex.github.com/images/yaktocat.png)
+![](https://github.com/CodeSailer/TelemetryPC3/blob/main/Images/TelemetryPC3%20screenshot.png)
