@@ -1,5 +1,5 @@
 # TelemetryPC3
-A simple telemetry software for Project CARS 3
+A simple telemetry software for Project CARS 3  
 Blog post: https://codesailer.com/projects/telemetry_pc3/
 
 ## Libraries
